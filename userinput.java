@@ -18,5 +18,6 @@ public class userinput {
         }else{
             System.out.println("Hello Alice and Bob");
         }
+        
     }
 }
